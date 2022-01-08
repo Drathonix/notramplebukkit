@@ -1,4 +1,4 @@
-# notramplebukkit
+# No Trample Bukkit
 Literally 20 lines of code don't @me
 
 To use just put it in your plugins folder and start the server. Its not hard. Just put this jar in there.
