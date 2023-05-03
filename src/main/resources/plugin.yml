@@ -1,6 +1,6 @@
 name: Notrample
 version: ${project.version}
 main: com.drathonix.notrample.Notrample
-api-version: 1.18
+api-version: 1.19
 authors: [ Drathonix ]
 description: Disables crop trampling for players and entities.
